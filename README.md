@@ -8,4 +8,5 @@ scoring the most relevant sentences based on word frequency analysis.
 <br><br>
 Example: Summarization of given text on Gen AI
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/4a2857fa-109c-4bbb-b6d8-e4077d4fbb7d">
-
+<br><br>
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/078659d9-e9f1-41ea-b783-ef24012488bf">
